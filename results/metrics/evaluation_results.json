@@ -1,0 +1,22 @@
+{
+  "category": "bottle",
+  "image_level": {
+    "category": "bottle",
+    "threshold": 0.003021534765139222,
+    "threshold_method": "normal_validation_percentile_99.0",
+    "accuracy": 0.6506024096385542,
+    "precision": 0.9473684210526315,
+    "recall": 0.5714285714285714,
+    "f1": 0.7128712871287128,
+    "roc_auc": 0.7936507936507937,
+    "average_precision": 0.9340352680392678
+  },
+  "pixel_level": {
+    "pixel_threshold": 0.03566422313451767,
+    "pixel_threshold_method": "normal_validation_percentile_99.5",
+    "num_evaluated_pixels": 1359872,
+    "pixel_roc_auc": 0.7668046466118538,
+    "mean_iou": 0.065618475227409,
+    "mean_dice": 0.11317458928379436
+  }
+}

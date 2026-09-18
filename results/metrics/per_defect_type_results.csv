@@ -1,0 +1,5 @@
+defect_type,samples,actual_anomaly_rate,predicted_anomaly_rate,mean_score,roc_auc
+broken_large,20,1.0,0.7,0.0034188467543572187,
+broken_small,22,1.0,0.5,0.0033829594030976295,
+contamination,21,1.0,0.5238095238095238,0.003512581577524543,
+good,20,0.0,0.1,0.002612283919006586,

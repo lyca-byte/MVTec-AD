@@ -1,0 +1,12 @@
+{
+  "model_name": "LightweightConvAutoencoder",
+  "category": "bottle",
+  "image_size": 128,
+  "image_threshold": 0.003021534765139222,
+  "pixel_threshold": 0.03566422313451767,
+  "threshold_method": "normal_validation_percentile_99.0",
+  "pixel_threshold_method": "normal_validation_percentile_99.5",
+  "input_normalization": "pixel / 255.0",
+  "anomaly_score": "mean squared reconstruction error",
+  "framework": "PyTorch"
+}

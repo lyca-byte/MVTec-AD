@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+scikit-learn
+torch
+torchvision
+kaggle
+fastapi
+uvicorn
+python-multipart
+huggingface-hub
